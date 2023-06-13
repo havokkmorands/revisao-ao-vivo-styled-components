@@ -12,12 +12,12 @@ Essa branch possui o mini projeto usado na Revisão ao vivo.
 
 Para instalar o Styled Components em seu projeto, basta usar o comando:
 
-npm install styled-components
+```npm install styled-components```
 
 e instalar sua dependência:
 
-npm i --save-dev @types/styled-components
+```npm i --save-dev @types/styled-components```
 
 Detalhe: Caso ocorra o erro na instalação do Styled Components (npm ERR! Cannot read properties of null (reading 'edgesOut')), basta usar a versão anterior mais estável:
 
-npm install styled-components@5.3.10
+```npm install styled-components@5.3.10```
