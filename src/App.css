@@ -1,0 +1,12 @@
+:root {
+  --cor-principal: hsl(0, 0%, 100%);
+  --cor-secundaria: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Lato, sans-serif;
+  list-style: none;
+}
